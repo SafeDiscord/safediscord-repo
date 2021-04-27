@@ -1,0 +1,12 @@
+
+report_count: 2
+common_words: [minecraft, spam]
+reports:
+-
+    date: 05-23-2021
+    server_name: "LoPlox Minecraft Server"
+    report_msg: "joined, spammed everyone with a minecraft server link"
+-
+    date: 11-02-2020
+    server_name: "Friday Night Disco"
+    report_msg: "Spammed links in general chat about minecraft"
