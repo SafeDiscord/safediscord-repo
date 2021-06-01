@@ -1,12 +1,7 @@
-133721498421559296:
-    - report_count: 2
-    - common_words: [minecraft, spam]
+741655553176109136:
     - reports:
         -
-            date: 05-23-2021
-            server_name: "LoPlox Minecraft Server"
-            report_msg: "joined, spammed everyone with a minecraft server link"
-        -
-            date: 11-02-2020
-            server_name: "Friday Night Disco"
-            report_msg: "Spammed links in general chat about minecraft"
+            date: 06-01-2021
+            server_name: "avas.cc"
+            server_id: "733412303021670510"
+            report_msg: "joined, spammed everyone with a minecraft server called 'hero minse'"
